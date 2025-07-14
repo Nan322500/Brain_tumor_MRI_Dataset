@@ -4,7 +4,7 @@ import tensorflow as tf
 import numpy as np
 from PIL import Image
 
-model = tf.keras.models.load_model('model.h5')
+model = tf.keras.models.load_model('brain_tumor_model.h5')
 
 class_names = ['glioma', 'meningioma', 'notumor', 'pituitary']
 
