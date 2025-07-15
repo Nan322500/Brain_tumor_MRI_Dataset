@@ -1,5 +1,7 @@
-streamlit==1.24.1
-tensorflow==2.11.0
-numpy
-Pillow
-python-3.10.13
+streamlit ==  1.46.1
+numpy ==  2.0.2
+scikitLearn ==  1.6.1
+tensorflow ==  2.18.0
+opencv ==  4.12.0
+PIL ==  11.2.1
+tensorflow.keras ==  3.8.0
